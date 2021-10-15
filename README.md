@@ -10,7 +10,7 @@ HOW TO RUN IT
 
 #####################################
 
-Clone The Repo
+sudo git clone https://github.com/mraravindtech/passwordgenerator.git
 
 sudo apt install python3
 
