@@ -1,6 +1,6 @@
 # PasswordGenerator
 
-This Is A Simple Python That Helps You To Create A Secure Password
+This Is A Simple Python Script That Helps You To Create A Secure Password
 
 This Password Generator Is Created By Aravind.G
 
