@@ -22,6 +22,6 @@ Requirements:Python3
 
 ####################################
 
-Check Out My Youtube Channel https://www.youtube.com/channel/UCoX5bI8Pc-QRYDuFc1o0EgA
+Check Out My Youtube Channel : https://bit.ly/3zyQf0o
 
 And Find Me At : https://instagram.com/aravind.ceh
